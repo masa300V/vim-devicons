@@ -110,7 +110,7 @@ function s:getDistro()
     elseif s:lsb =~# 'Gentoo'
       let s:distro = ''
     elseif s:lsb =~# 'Ubuntu'
-      let s:distro = ''
+      let s:distro = ''
     elseif s:lsb =~# 'Cent'
       let s:distro = ''
     elseif s:lsb =~# 'Debian'
